@@ -1,0 +1,1 @@
+El personaje tiene un sombrero mágico (o una mochila, un saco, unos bolsillos…) del que puede sacar a voluntad los objetos que necesita. Puedes usar Tozudo en lugar de Apañado en acciones de equiparte mientras tengas tu sombrero (o lo que sea). Si te roban o pierdes el sombrero, recibes un punto de Héroe y tarde o temprano volverá a ti o conseguirás otro parecido.

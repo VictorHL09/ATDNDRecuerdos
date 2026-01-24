@@ -1,0 +1,1 @@
+El personaje es único diciendo palabras de ánimos, haciendo mimitos y, en general, haciendo que otros se sientan bien. Puedes usar Majo en lugar de Cerebrito en acciones de curar destinadas a otros. Para curarte a ti mismo tendrás que seguir usando Cerebrito.

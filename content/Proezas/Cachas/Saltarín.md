@@ -1,0 +1,1 @@
+El personaje tiene unas patas fuertes, el culo de goma o alguna otra característica que le hace un gran saltador. Obtiene un éxito automático en cualquier acción de saltar.

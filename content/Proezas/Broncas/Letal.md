@@ -1,0 +1,1 @@
+ Eres especialmente peligroso con un arma concreta (espada, pistola de rayos, remo o lo que quieras). Cuando tienes éxito en una acción de ataque con esa arma infliges al blanco un nivel de daño adicional.

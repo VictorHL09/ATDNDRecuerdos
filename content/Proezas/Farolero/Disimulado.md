@@ -1,0 +1,1 @@
+Tu personaje es muy bueno pasando inadvertido y actuando sin ser visto. Recibes un +1 a las acciones de esconder.

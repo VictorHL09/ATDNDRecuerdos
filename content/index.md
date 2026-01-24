@@ -1,0 +1,1 @@
+Bienvenido a la wiki de la partida.

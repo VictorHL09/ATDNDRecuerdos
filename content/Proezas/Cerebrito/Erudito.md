@@ -1,0 +1,1 @@
+Eres un experto en un área concreta del conocimiento. Puede ser geografía, heráldica, botánica o lo que se te ocurra. En ese campo sabes un montón y recibes un éxito automático en cualquier acción de saber que tenga que ver con él.

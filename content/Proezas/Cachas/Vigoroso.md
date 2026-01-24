@@ -1,0 +1,1 @@
+Eres un hueso duro de roer, tienes un nivel de salud adicional. En lugar de las cuatro casillas habituales, tu personaje tiene cinco casillas.

@@ -1,0 +1,1 @@
+Eres un blanco difícil en combate, sabes cómo moverte para que tus enemigos no logren alcanzarte. Recibes un +1 a la reacción frente a las acciones de ataque y 1 éxito automático en tus acciones de esquivar.

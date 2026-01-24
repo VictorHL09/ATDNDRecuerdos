@@ -1,0 +1,1 @@
+Tu personaje es experto en moverse inadvertidamente y aprovechar despistes de los demás para atacarles a traición. Siempre que un personaje esté en estado distraído o concentrado, o siempre que tu personaje esté en estado oculto, puedes utilizar Farolero en lugar de Broncas para atacar y además recibes un +1.

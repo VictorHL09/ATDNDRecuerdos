@@ -1,0 +1,1 @@
+Eres capaz de sacar fuerzas para luchar en los momentos más desesperados. Recibes un +1 a Broncas cuando solo te queda sin tachar un nivel de salud y un +2 cuando tienes todos los niveles de salud tachados.

@@ -1,0 +1,1 @@
+Tu personaje es un viajero consumado que ha estado en mil sitios y conoce su historia y costumbres. Puedes usar Enrollado en lugar de Cerebrito en acciones de saber cuando se refieran a temas de historia, geografía, leyendas, etcétera.

@@ -1,0 +1,1 @@
+Eres mazo de silencioso, por lo que recibes un +1 a las acciones de acechar.

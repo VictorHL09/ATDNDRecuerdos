@@ -1,0 +1,1 @@
+El personaje tiene un talento especial para dirigir a otros al combate. Puedes hacer acciones de animar con Broncas en lugar de con Majo cuando os encontréis en una situación de combate. Si tienes éxito, el personaje inspirado recibe un +1 adicional.

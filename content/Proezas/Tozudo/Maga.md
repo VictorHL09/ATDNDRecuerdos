@@ -1,0 +1,1 @@
+El personaje es miembro de una de las ocho escuelas de magia: fuego, hielo, roca, aire, vida, muerte, dimensional o mental. Como mago que es, podrá realizar conjuros de su escuela y tendrá acceso a sitios secretos como la [[Ciudad de los Magos]]. Consulta [[Magia]] para saber más sobre conjuros y magia.

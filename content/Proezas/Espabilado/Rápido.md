@@ -1,0 +1,1 @@
+Un personaje rápido siempre es el primero en actuar (si varios personajes tienen esta proeza, todos actúan antes que el resto y se utilizan las reglas de iniciativa normales entre ellos para ver en qué orden). Además, gastando un punto de Héroe, el personaje puede hacer una acción o un movimiento extra en su turno.

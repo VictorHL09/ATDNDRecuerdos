@@ -1,0 +1,1 @@
+El personaje tiene una segunda forma de aspecto monstruoso. Puede que sea un licántropo o un vampiro capaz de convertirse en algo terrible. Cambiar de forma es un movimiento y en su forma monstruosa el personaje recibe +1 a Cachas, +1 a Broncas, +1 a cualquier uso de la acción de asustar, y –1 a Majo y a Farolero.

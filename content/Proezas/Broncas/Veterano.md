@@ -1,0 +1,1 @@
+Puedes usar Broncas en lugar de Cerebrito para acciones de saber relacionadas con las armas, las armaduras, la guerra y las cosas de combate en general.
