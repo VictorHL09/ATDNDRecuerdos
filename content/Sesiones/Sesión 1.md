@@ -1,6 +1,3 @@
----
-publish: true
----
 ## Personajes
 - [[PJ Elena]]
 - [[PJ Iker]]

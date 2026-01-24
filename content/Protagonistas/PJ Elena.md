@@ -1,6 +1,3 @@
----
-publish: true
----
 ### Nombre y Descripción
 *Pelusa, la gata mitad blanca mitad negra* que vaga por el mundo de Ooo sin rumbo aparente, pasando desapercibida lo máximo que puede y tratando de sobrevivir con sus propios medios. Huérfana, abandonada y olvidada por sus padres en el bosque, sin nadie que se atreva a estar con ella, fue acogida por el [[Gremio de Asesinos]]. 
 
