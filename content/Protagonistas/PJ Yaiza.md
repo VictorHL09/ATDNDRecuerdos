@@ -12,7 +12,7 @@ Teniendo que estar por su cuenta esta sobrevivía recogiendo los restos de comid
 - **Cachas 3**
 
 ### Proezas
-- *[[Maga]]* (Basura)
+- [[Mago]] ([[Escuela de Basura]])
 - [[Sombrero Mágico]]
 - [[Erudito]] (Naturaleza)
 - [[Huidizo]]

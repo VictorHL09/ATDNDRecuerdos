@@ -1,0 +1,5 @@
+Los movimientos son como acciones que no necesitan una tirada. Por ejemplo, sacar una espada de su funda, beberse una poción o subir una escalera son movimientos. Pero cuidado, porque si las circunstancias hacen que se necesite una tirada para resolver la situación, entonces el movimiento se convierte en una acción: si para sacar la espada mágica hay que convencerla de que salga, si el tapón de la poción está tan duro que necesita mucha fuerza para abrirse, o si en las escaleras hay pinchos que tienes que evitar, entonces esas tres cosas dejan de ser movimientos y se convierten en acciones.
+
+Ya sabes que la clave para decidir si una tirada (y, por tanto, una acción) es necesaria se basa en las consecuencias de fallar (página 61). Tenlo en cuenta para decidir cuándo un movimiento se convierte en una acción.
+
+Esta distinción que estamos haciendo va a ser muy importante, como te explicamos en el apartado [[El Tiempo]].
