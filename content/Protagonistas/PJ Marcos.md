@@ -1,7 +1,6 @@
 ---
 draft: true
 ---
-
 ### Nombre y Descripción
 *Sir Turrald El Crujiente*, un caballero turrón de chocolate formado a partir de los lazos que se realizaron antaño entre el [[Reino de Chuchelandia]] y el [[Reino de la Nuez]]. Formado y sirviendo al [[Ducado de la Nuez]] debido a su cercanía con el [[Reino de Chuchelandia]], aún así sus activos siempre han sido mínimos, hasta el punto donde ambos reinos se han acabado olvidando de estos caballeros ya que simplemente eran parte de una acción colaborativa burocrática del [[Tratado ChucheNuez]].
 
@@ -19,7 +18,7 @@ draft: true
 - *[[Trotamundos]]*
 
 ### Defecto
-[[Obligación]]: tiene el compromiso de hacer caso cada vez que alguien le pide ayuda.
+[Obligación](obsidian://open?vault=content&file=Defectos): tiene el compromiso de hacer caso cada vez que alguien le pide ayuda.
 
 ### Inventario
 - Lanza

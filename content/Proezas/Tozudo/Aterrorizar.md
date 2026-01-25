@@ -1,0 +1,1 @@
+Sea cambiando tu aspecto o de algún otro modo mágico, eres capaz de aterrorizar a otros personajes. Tienes éxito con 3 o más en cualquier acción de asustar y, si tienes éxito, puedes dejar al blanco paralizado por el miedo en lugar de asustado.

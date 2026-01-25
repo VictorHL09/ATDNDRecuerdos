@@ -1,0 +1,1 @@
+La fuerza de voluntad del personaje hace que sea excepcionalmente resistente al daño. El personaje dispone de un nivel de salud adicional.

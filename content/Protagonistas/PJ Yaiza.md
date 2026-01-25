@@ -18,7 +18,7 @@ Teniendo que estar por su cuenta esta sobrevivía recogiendo los restos de comid
 - [[Huidizo]]
 
 ### Defecto
-[[Compulsión]]: El personaje siente la necesidad de lavar toda la comida y objetos que recibe o toma de algún sitio.
+[Compulsión](obsidian://open?vault=content&file=Defectos): El personaje siente la necesidad de lavar toda la comida y objetos que recibe o toma de algún sitio.
 
 ### Inventario
 - Cono de Tráfico (Mágico)

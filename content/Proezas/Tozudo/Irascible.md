@@ -1,0 +1,1 @@
+El personaje se enfada con facilidad. Siempre que vaya a recibir un estado asustado, confundido, de bajona o decepcionado puede cambiarlo si lo desea por un estado furioso.

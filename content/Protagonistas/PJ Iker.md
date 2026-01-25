@@ -19,7 +19,7 @@ Lo que no se dio cuenta es que un pequeño trozo de sus gominolas, imperceptible
 - [[Forma Monstruosa]]
 
 ### Defecto
-[[Susceptible]]: debido a su inocencia y desconocimiento de todo este personaje es crédulo. Para todas las reacciones a la acción a la que el personaje es susceptible, este tira un único dado (independientemente de su puntuación en el atributo correspondiente) y solo tiene éxito con 5 o 6.
+[Susceptible](obsidian://open?vault=content&file=Defectos): debido a su inocencia y desconocimiento de todo este personaje es crédulo. Para todas las reacciones a la acción a la que el personaje es susceptible, este tira un único dado (independientemente de su puntuación en el atributo correspondiente) y solo tiene éxito con 5 o 6.
 
 ### Inventario
 

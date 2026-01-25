@@ -1,0 +1,24 @@
+Los personajes que interpretan los jugadores tienen puntos de Héroe que se pueden gastar para conseguir efectos beneficiosos sobre el juego.
+
+Al principio de cualquier aventura, sin importar cómo terminara la anterior, **cada héroe comienza el juego con cinco puntos de Héroe.**
+
+## Gastar puntos de Héroe
+
+Durante el juego, podrás utilizar puntos de Héroe para obtener cualquiera de los siguientes efectos:
+- **Añadir dos dados.** Antes de realizar una acción o reacción, puedes gastar un punto de Héroe para añadir dos dados a tu tirada.
+- **Repetir dados de una tirada.** Después de realizar una tirada de dados para realizar una acción o reacción y antes de que se resuelvan sus efectos, puedes gastar un punto de Héroe para repetir todos los dados que quieras de tu tirada.
+- **Ignorar un estado.** En cualquier momento, puedes gastar un punto de Héroe para ignorar un estado durante un turno.
+- **Recuperarte.** En cualquier momento, puedes gastar un punto de Héroe para recuperar hasta dos niveles de salud.
+- **Activar una proeza.** Algunas proezas necesitan gastar un punto de Héroe para funcionar. En cualquier momento, puedes gastar un punto de Héroe para activar una proeza que lo necesite.
+- **Pagar conjuros.** Si juegas con las reglas de [[Conjurar]], un personaje jugador siempre puede pagar un punto de Héroe para ignorar el coste completo de un conjuro.
+
+Cada turno puedes gastar tantos puntos de Héroe como quieras, sin más límite que los puntos de los que dispongas, pero para usos distintos. Por ejemplo, podrías gastar un punto para añadir dos dados a tu tirada y a continuación otro para repetir la tirada (¡incluyendo esos dados que has añadido!), **pero no podrías gastar dos puntos para añadir cuatro dados ni repetir la tirada dos veces.**
+
+## Ganar puntos de Héroe
+
+Durante la partida también habrá oportunidades para ganar nuevos puntos de Héroe, aunque muchas veces tendrás que ser tú, como jugador, quien los busque. No hay límite a los puntos de Héroe que puedes acumular durante la aventura: si no paras de hacer cosas heroicas y ni loco gastas los puntos que recibes, puedes llegar a tener un buen puñado de ellos. Sin embargo, nosotros no te recomendamos que acumules los puntos sin gastarlos: recuerda que al principio de la siguiente aventura volverás a tener cinco puntos de Héroe, sin importar cómo terminaste la anterior. ¡Los puntos están para gastarlos! Aquí te comentamos las formas en las que puedes ganar puntos de Héroe durante el juego:
+- **Enfréntate a tu Defecto.** Esta es la forma principal de ganar puntos de Héroe. En los defectos explicados en [[Defectos]], hemos procurado mencionar en cada uno cómo se consiguen puntos de Héroe a través de ese defecto. Cuando inventes un defecto, asegúrate de que el director de juego y tú tenéis claro cómo se ganan puntos de Héroe con él. En todo caso, quédate con esta idea: si te enfrentas a tu defecto para ayudar a otros, ganas un punto de Héroe.
+- **Sacrifícate por la causa.** Si para beneficiar a quien lo necesita renuncias a cosas que te importan, como esa espada molona o los nuevos poderes que te hacen tan guay, ganas un punto de Héroe. El sacrificio tiene que ser significativo: perder tu boli de dos colores no parece un gran sacrificio, a no ser que el boli tuviera propiedades mágicas y lo hayas perdido para salvar a unos hombres casita.
+- **Ayuda a los demás.** Si dejas de lado tus intereses para ayudar al personaje de otro jugador, este puede darte, si quiere, uno de sus puntos de Héroe. El director de juego tiene que aprobar el intercambio de puntos, así que no hagáis un teatrillo para pasaros los puntos unos a otros: la situación tiene que ser tal que realmente estés haciendo un esfuerzo por ayudar a otro. ¡Nadie dijo que ser un héroe fuera fácil!
+- **Recibe un estado por el morro.** Tanto el director de juego como el jugador pueden sugerir en ocasiones que el personaje reciba un estado por el morro, es decir, sin que sea el resultado de una acción recibida o consecuencia de una acción fallida, sino simplemente porque pega en la historia. Por ejemplo, puede molar que el personaje se levante hambriento si no ha desayunado o esté cansado si se tiró toda la noche jugando con BMO. Jugador y director de juego tienen que estar de acuerdo en que el personaje reciba ese estado. Un estado por el morro dura una escena y el personaje que lo recibe gana un punto de Héroe.
+- **Gasta puntos de Experiencia.** A veces necesitas desesperadamente un punto de Héroe y tienes la reserva a cero. ¡Mal asunto! Pero si eres un aventurero experimentado todavía hay una posibilidad para ti, ¡no desesperes! Puedes gastar dos [[Puntos de Experiencia]] de los que hayas recibido por tus aventuras pasadas para comprar un punto de Héroe instantáneo, pero tendrás que gastarlo inmediatamente, nada de guardarlo para luego.

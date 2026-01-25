@@ -1,0 +1,1 @@
+Tu personaje tiene un aspecto violento que da bastante canguelo. Puedes usar Broncas en lugar de Tozudo en las acciones de asustar.
