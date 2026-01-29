@@ -1,0 +1,1 @@
+Tienes un olfato muy fino que te ayuda a seguir rastros y te permite oler cosas a distancia. Puedes oler cosas a un máximo de dos zonas de distancia y recibes un +1 a las acciones de buscar, rastrear o pisparse cuando sean sobre olores. También tienes un +1 a las reacciones frente a acciones de acechar y esconder si puedes usar el olfato (tienes el viento a favor y cosas así).

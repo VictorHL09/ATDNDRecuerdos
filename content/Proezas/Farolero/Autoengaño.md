@@ -1,0 +1,1 @@
+Eres capaz de creerte tus propias mentiras. Puedes utilizar Farolero en lugar de Tozudo para acciones de concentrarse.

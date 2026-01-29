@@ -1,0 +1,1 @@
+Eres muy parlanchín y te gusta comerles la cabeza a los demás con tu cháchara incesante. Puedes usar Farolero en lugar de Majo en las acciones de convencer. Además, cuando lo hagas, en lugar del estado confiado puedes colocarle al objetivo un estado confundido.

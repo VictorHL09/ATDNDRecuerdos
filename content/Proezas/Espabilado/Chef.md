@@ -1,0 +1,1 @@
+El personaje es un excelente cocinero, capaz de realizar los más selectos y deliciosos platos. Recibes un éxito automático en todas las acciones de cocinar.

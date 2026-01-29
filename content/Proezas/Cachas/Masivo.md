@@ -1,0 +1,1 @@
+El personaje es pesado, gordo o denso. En todo caso, difícil de mover. Puedes utilizar Cachas en lugar de Broncas en las acciones de empujar y, además, recibes un +1 a tus reacciones contra esa misma acción.

@@ -1,0 +1,1 @@
+El personaje tiene un entusiasmo realmente contagioso que le hace un animador natural. Añade +2 a todas las acciones de animar que realice el personaje.

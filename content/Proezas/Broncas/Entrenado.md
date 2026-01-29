@@ -1,0 +1,1 @@
+Eres especialmente diestro con un arma a tu elección (por ejemplo: espada, hacha, bajo-hacha, bolsa de naranjas, las manos desnudas). En todas las acciones de atacar con esa arma añades un dado más a tus tiradas.

@@ -1,0 +1,1 @@
+Mientras tu personaje se encuentre con el estado Empachado estará tan gordo que reducirá en 1 los ataques que reciba.

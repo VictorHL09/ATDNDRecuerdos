@@ -1,0 +1,1 @@
+La imitación no tiene secretos para el personaje. En las acciones de imitar tus éxitos chachis añaden un dado extra a la tirada sin tener que convertirse en éxitos normales.
